@@ -1,4 +1,4 @@
-package net.designated.aopTest.beans;
+package net.designated.aopTest;
 
 /**
  * Spring Bean.

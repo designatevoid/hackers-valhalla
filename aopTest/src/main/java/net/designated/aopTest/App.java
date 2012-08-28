@@ -3,7 +3,6 @@ package net.designated.aopTest;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import net.designated.aopTest.beans.HelloPrinter;
 
 /**
  * Hello world!
